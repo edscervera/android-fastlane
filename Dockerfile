@@ -12,3 +12,6 @@ RUN sudo gem install fastlane
 
 # Installing bundle
 RUN sudo gem install bundle
+
+# Installing fastlane-plugin-firebase_app_distribution
+RUN sudo gem install fastlane-plugin-firebase_app_distribution
