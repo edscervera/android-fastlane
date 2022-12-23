@@ -1,4 +1,4 @@
-FROM cimg/android:2022.06
+FROM cimg/android:2022.12-ndk
 
 # Installing build tools
 RUN sudo apt-get update && \
